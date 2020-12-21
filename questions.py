@@ -3,7 +3,8 @@ import time
 
 from printing_funcs import printThinking, printMyProgressBar, print3dots, printExiting
 
-print(">>  How would you react to the following photo (shows photo of a dead bird, it can be inferred that the bird is abused/smashed/gutted)")
+print(">>  How would you react to the following photo (shows photo of a dead bird, ")
+print("    it can be inferred that the bird is abused/smashed/gutted)")
 time.sleep(2)
 printThinking()
 time.sleep(2)
