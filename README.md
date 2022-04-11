@@ -20,5 +20,8 @@
   ~ Elisabetta Cunegatti
 
 * Code includes a "fake" AI concept turned into short video interviews by capturing code execution on a terminal as well as functions for transforming the manual's text into visual plots.
-  The video interviews can be found here:
-  (link needed)
+
+The video interviews can be found here:
+* https://drive.google.com/file/d/1SLYml5GhN-zqSRcWokGyMAxXk5RCwNXZ/view
+* https://drive.google.com/file/d/1MtYwZX2gO0siJu8bS0AEMImNcfRiSVT8/view
+* https://drive.google.com/file/d/1O5EQg4DZnqAJE8AZlvQtoDxwQvhXw6YR/view
